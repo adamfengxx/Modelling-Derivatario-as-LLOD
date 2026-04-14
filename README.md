@@ -18,7 +18,7 @@ linguistics and facilitate the sharing of existing language resources.
 
 **Generally speaking, our study is based on these two backgrouds.**
 
-# THE MOTIVATION: FILL THE GAP #
+# The motivation: fill the gap # 
 
 LiITA: LiITA: Linking Italian is a knowledge base of linguistic
 resources for Italian. https://www.liita.it/
